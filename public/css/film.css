@@ -1,0 +1,15 @@
+h1, .card, footer {
+    margin: 1em;
+}
+
+.content {
+    margin: 1em;
+}
+
+#btn-add, h5, #cat {
+    display: inline;
+}
+
+#btn-add {
+    margin-left: 70%;
+}
